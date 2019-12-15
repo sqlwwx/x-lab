@@ -1,0 +1,3 @@
+[submodule "packages/pure-func"]
+	path = packages/pure-func
+	url = git@github.com:sqlwwx/pure-func.git
