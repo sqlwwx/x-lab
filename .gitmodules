@@ -1,3 +1,6 @@
 [submodule "packages/pure-func"]
 	path = packages/pure-func
 	url = git@github.com:sqlwwx/pure-func.git
+[submodule "packages/api-gitlab"]
+	path = packages/api-gitlab
+	url = git@github.com:sqlwwx/api-gitlab.git
